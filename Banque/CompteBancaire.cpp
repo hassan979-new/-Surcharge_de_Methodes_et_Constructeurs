@@ -64,12 +64,18 @@ public:
 int main(int argc, char const *argv[])
 {
     CompteBancaire c1("Hassan", "12345", 123);
-    CompteBancaire c2("Taha", "13233", 345, 500);
-
-    c1.retrait(400);
-    c2.retrait(300, 345);
-
     c1.afficherSolde();
+    
+    c1.retrait(400);
+
+
+    CompteBancaire c2("Taha", "13233", 345, 500);
+    c2.afficherSolde();
+    
+    c2.retrait(300);
+    c2.retrait(500,234234);
+    c2.retrait(100,345);
+
     c2.afficherSolde();
 
     return 0;

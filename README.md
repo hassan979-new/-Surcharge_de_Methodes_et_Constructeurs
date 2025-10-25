@@ -14,11 +14,11 @@ Ce document regroupe plusieurs projets C++ illustrant des concepts essentiels de
 ## 📂 Project Structure
 ````
 projets
-├── Contact/
+├── GestionCarnetAdresses/
 │   └── contact.cpp
-├── Facturation/
+├── SystemeFacturation/
 │   └── facture.cpp
-├── CompteBancaire/
+├── Banque/
 │   └── compte_bancaire.cpp
 └── README.md
 ````

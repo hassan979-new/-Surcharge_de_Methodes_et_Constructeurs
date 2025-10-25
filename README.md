@@ -84,11 +84,11 @@ Méthode afficherSolde() pour consulter le solde
 
 
 ### Gestion d’un carnet d’adresses avec surcharge de constructeurs :
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/894a210b-ece0-41ff-95e2-4248b6f1febd" />
 ### Système de facturation – Surcharge de méthodes :
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/80128695-1e99-4901-90a0-5b5c8d993033" />
 ### Banque – Constructeurs surchargés et logique métier : 
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/f4c2485c-9f09-480d-b55d-d49e5b389f02" />
 ## 💡 Concepts Practiced
 
 - La surcharge pour offrir plusieurs modes d’initialisation ou d’action
